@@ -34,6 +34,9 @@ THEN I am taken to the corresponding section of the README
 - Node.js
 - Inquirer
 
+## Video Demo
+https://watch.screencastify.com/v/Rq1Xzzf0KI74ta4mtNTX
+
 ## Features
 
 - Once you have installed the dependancies you can enter "node index.js" and fill out the responses to the prompts in the command line.
